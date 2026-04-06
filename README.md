@@ -69,4 +69,4 @@ lab environment. No activities extend beyond the local lab.
 ---
 
 *Part of my public learning journey toward DevSecOps.*
-*Follow along: [linkedin.com/in/solomonudoabba]()*
+*Follow along: https://www.linkedin.com/in/solomon-udoabba-3611a7218/*
